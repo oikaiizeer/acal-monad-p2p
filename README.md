@@ -1,5 +1,6 @@
 # 🛶 ACAL - Your Canoe to Monad
-
+const message: string = "Forked with TypeScript!";
+console.log(message);
 <h1 align="center">
   🛶 ACAL ($ACL)
 </h1>
